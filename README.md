@@ -27,7 +27,7 @@
  <tbody>
   <tr><td>ASIGNATUA:</td><td colspan="5">Estructura de Datos y Algoritmos</td></tr>
   <tr><td>TÍTULO DE LA PRACTICA:</td><td colspan="4">Árboles<td></tr>
-  <tr><td>NÚMERO DE PRÁCTICA:</td><td>Practica de Laboratorio 05</td><td>AÑO LECTIVO:</td><td>2022 A</td><td>NRO. SEMESTRE:</td><td>III</td></tr>
+  <tr><td>NÚMERO DE PRÁCTICA:</td><td>Practica de Laboratorio 06</td><td>AÑO LECTIVO:</td><td>2022 A</td><td>NRO. SEMESTRE:</td><td>III</td></tr>
   <tr><td>FECHA DE PRESENTACIÓN:</td><td>12-Jun-2022</td><td>HORA DE PRESENTACIÓN:</td><td colspan="3">11:30 p.m.</td></tr>
   <tr><td>INTEGRANTES:</td><td colspan="3">-Diego Ivan Pacori Anccasi<br>-Edson Joel López Quispe<br>-Oliver Alessandro Mayta Nolasco<br>-Edwin Francisco Aguilar Tancayo<br>-Jordy Emanuel Ayma Cutipa</td><td>NOTA:</td><td>...</td></tr>
   <tr><td>DOCENTE:</td><td colspan="5">Richart Smith Escobedo Quispe - rescobedoq@unsa.edu.pe</td></tr>
@@ -41,17 +41,16 @@
   <tr><td><strong>I. SOLUCIÓN DE EJERCICIOS/PROBLEMAS:</strong><br>
   <ul>
     <ol>
-        <li>Corchete equilibrados</li>
+        <li>Modificar el método de obtención de valor dado una clave (5 puntos) </li>
 	    -El programa se encarga de equilibrarlos corchetes <br>Se considera que dos corchetes son un par coincidente si un corchete de apertura (es decir, (, [, o ) aparece a la izquierda de un corchete de cierre (es decir, ), ] o ) del mismo tipo exacto. Hay tres tipos de pares de corchetes coincidentes: [], {} y () <br> 
         <img src="Imagenes/CochetesEquilibrados.jpeg">
         <img src="Imagenes/corchetesE2.jpeg">
-        <li>Operaciones de árbol AVL</li>
+        <li>Mostrar en un diagrama de árbol gráficamente la estructura final para los datos ingresados. (4 puntos)</li>
 	    -Se simula las operaciones de un AVL <br>
-        <li>Árbol AVL</li>
+        <li>El método toString() del árbol, retorna lo siguiente. ¿Por qué están entre paréntesis ciertas claves? (4 puntos)</li>
 	    -Los AVL se parecen mucho a los BST , pero destacan porque presentan un factor de equilibrio, la cual no debe superar en 2 niveles la raiz izquierda a la derecha y viceversa garantizando mejores tiempos de ejecución.<br>Para el ejecicio se crearon tres clases:<br>
-        <img src="Imagenes/ClasesAVL.jpg"><br>En la clase AVL contiene el código del funcionamiento, inserción busqueda, eliminación y un metodos para imprimer el arbol en post orden, el, la clase Node contiene la forma basica de un Nodo visto en anteriores  laboratorios, la clase NodeAVL es una extención de la clase Node referido al AVL, y la clase Test son experimentos de la funcionalidad.<br>
-        <img src="Imagenes/EjemploTest.jpg"><br>Al lado de Valor esta el factor de equilibrio<br>
-    </ol>
+        <li>Agregar un nodo adicional (www.youtube.com, 134.24.13.78) y mostrarlo paso a paso. (3 puntos)</li>
+        - Al lado de Valor esta el factor de equilibrio<br>
   </ul>
 
   <tr><td><strong>III. CONCLUSIONES:</strong><br>- Un AVL es un arbol binario de busqueda que satisface la condicion de estar balanceado<br>
