@@ -68,13 +68,13 @@
         <img src="Pregunta1/codMain.png">
         <p>Resultado:</p>
         <img src="Pregunta1/result3.png">
-        <li>Mostrar en un diagrama de árbol gráficamente la estructura final para los datos ingresados. (4 puntos)</li>
-	    -Se simula las operaciones de un AVL <br>
-
-        <li>El método toString() del árbol, retorna lo siguiente. ¿Por qué están entre paréntesis ciertas claves? (4 puntos)</li>
-	    -Los AVL se parecen mucho a los BST , pero destacan porque presentan un factor de equilibrio, la cual no debe superar en 2 niveles la raiz izquierda a la derecha y viceversa garantizando mejores tiempos de ejecución.<br>Para el ejecicio se crearon tres clases:<br>
-        <li>Agregar un nodo adicional (www.youtube.com, 134.24.13.78) y mostrarlo paso a paso. (3 puntos)</li>
-        - Al lado de Valor esta el factor de equilibrio<br>
+        <li>Mostrar en un diagrama de árbol gráficamente la estructura final para los datos
+ingresados. (4 puntos)</li>
+        <li>El método toString() del árbol, retorna lo siguiente. ¿Por qué están entre paréntesis ciertas claves?.<br><h3><strong>Para esta pregunta se obto por usar números envés de String</strong></h3><img src="Pregunta3/codigo.png"><br>
+        Se puede observar que al imprimir el Árbol se logran diferenciar claves entre parérentesis, dichas claves representan los nodos padres, y justamente la indentación simboliza la altura que comparten los nodos
+        </li><img src="Pregunta3/impresion.png">
+        <li>Agregar un nodo adicional (www.youtube.com, 134.24.13.78) y mostrarlo paso a
+paso. (3 puntos)</li>
   </ul>
 
   <tr><td><strong>III. CONCLUSIONES:</strong><br>- Un AVL es un arbol binario de busqueda que satisface la condicion de estar balanceado<br>
@@ -90,7 +90,7 @@
   </td><tr>
  </theader>
  <tbody>
-  <tr><td>- AVL (Addelson-Velskii y Landis) Este tipo de arbol nos permite tener una estructura eficiente con respecto a su padre el BST, y trata de mantenerlo balanceado(BST)
+  <tr><td>-El Árbol B surgió en 1972, con la idea de mantener índices en almacenamiento externo para acceso a bases de datos, se pretende aprovechar la gran capacidad de almacenamiento, pero organizada de forma que el acceso a una clave sea lo más rápido posible
   </td></tr>
  </tbody>
 </table>
@@ -100,10 +100,10 @@
   <tr><td><strong>REFERENCIAS Y BIBLIOGRAFÍA</strong></td><tr>
  </theader>
  <tbody>
-  <tr><td>https://algorithmtutor.com/Data-Structures/Tree/AVL-Trees/</td></tr>
-  <tr><td>https://docs.oracle.com/javase/tutorial/java/generics/types.html</td></tr>
-  <tr><td>...</td></tr>
-  <tr><td>...</td></tr>
-  <tr><td>...</td></tr>
+  <tr><td>https://programmerclick.com/article/62451418472/</td></tr>
+  <tr><td>https://sites.google.com/a/espe.edu.ec/programacion-ii/home/arboles/arbol-b-1</td></tr>
+  <tr><td>https://rua.ua.es/dspace/bitstream/10045/16037/8/ped-09_10-tema3_6.pdf</td></tr>
+  <tr><td>https://dinahosting.com/ayuda/que-es-un-servidor-dns/</td></tr>
+  
  </tbody>
 </table>
