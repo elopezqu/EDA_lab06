@@ -56,13 +56,15 @@ En el código, para la clave www.simpsons.com, invocado de la siguiente manera:<
         <img src="Pregunta1/else.png">
         <p>Cuando la altura llegue a ser 0 va a entrar en el if y va a buscar en los hijos para ver cual de ellos coincide con la clave y al encontrarlo, va a retornar dicho valor, pero solo 1, a pesar de que haya otra key que coincida</p>
         <img src="Pregunta1/if.png">
-        Y nos retornara 1 solo valor de los 2 que ingresamos:
+        <p>Y nos retornara 1 solo valor de los 2 que ingresamos:</p>
         <img src="Pregunta1/putDatos.png">
         <p>resultado</p>
         <img src="Pregunta1/result1.png">
-        <h1>3.- Metodo Search (Modificado)</h1>d
+        <h1>3.- Metodo Search (Modificado)</h1>
         <img src="Pregunta1/modificacion.PNG">
-        <p>El cambio fue realizado al entrar en el if donde la condicion es el metodo eq, el cual verifica si son iguales, ya no retorna ahi, sino que lo hace fuera del for, para que pueda buscar en todo el nodo de valores, y al momento de realizar la coincidencias lo acumule en un String, y el resultado seria el siguiente: </p>
+        <p>El cambio fue realizado al entrar en el if donde la condicion es el metodo eq, el cual verifica si son iguales, ya no retorna ahi, sino que lo hace fuera del for, para que pueda buscar en todo el nodo de valores, y al momento de realizar la coincidencias lo acumule en un String, y el resultado seria el siguiente:</p>
+        <img src="Producto1/result2.png">
+        <hz>
         <li>Mostrar en un diagrama de árbol gráficamente la estructura final para los datos
 ingresados. (4 puntos)</li>
         <li>El método toString() del árbol, retorna lo siguiente. ¿Por qué están entre paréntesis
