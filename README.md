@@ -63,7 +63,7 @@
         <img src="Pregunta1/modificacion.PNG">
         <p>El cambio fue realizado al entrar en el if donde la condicion es el metodo eq, el cual verifica si son iguales, ya no retorna ahi, sino que lo hace fuera del for, para que pueda buscar en todo el nodo de valores, y al momento de realizar la coincidencias lo acumule en un String, y el resultado seria el siguiente:</p>
         <img src="Pregunta1/result2.png">
-        <h3>Resultados de todas las Pruebas</h3>
+        <h3>4.- Resultados de todas las Pruebas</h3>
         <p>Codigo Main:</p>
         <img src="Pregunta1/codMain.png">
         <p>Resultado:</p>
@@ -99,10 +99,10 @@ paso. (3 puntos)</li>
   <tr><td><strong>REFERENCIAS Y BIBLIOGRAFÍA</strong></td><tr>
  </theader>
  <tbody>
-  <tr><td>https://algorithmtutor.com/Data-Structures/Tree/AVL-Trees/</td></tr>
-  <tr><td>https://docs.oracle.com/javase/tutorial/java/generics/types.html</td></tr>
-  <tr><td>...</td></tr>
-  <tr><td>...</td></tr>
-  <tr><td>...</td></tr>
+  <tr><td>https://programmerclick.com/article/62451418472/</td></tr>
+  <tr><td>https://sites.google.com/a/espe.edu.ec/programacion-ii/home/arboles/arbol-b-1</td></tr>
+  <tr><td>https://rua.ua.es/dspace/bitstream/10045/16037/8/ped-09_10-tema3_6.pdf</td></tr>
+  <tr><td>https://dinahosting.com/ayuda/que-es-un-servidor-dns/</td></tr>
+  
  </tbody>
 </table>
