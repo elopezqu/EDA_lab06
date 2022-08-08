@@ -63,7 +63,7 @@ En el código, para la clave www.simpsons.com, invocado de la siguiente manera:<
         <h1>3.- Metodo Search (Modificado)</h1>
         <img src="Pregunta1/modificacion.PNG">
         <p>El cambio fue realizado al entrar en el if donde la condicion es el metodo eq, el cual verifica si son iguales, ya no retorna ahi, sino que lo hace fuera del for, para que pueda buscar en todo el nodo de valores, y al momento de realizar la coincidencias lo acumule en un String, y el resultado seria el siguiente:</p>
-        <img src="Producto1/result2.png">
+        <img src="Pregunta1/result2.png">
         <hz>
         <li>Mostrar en un diagrama de árbol gráficamente la estructura final para los datos
 ingresados. (4 puntos)</li>
