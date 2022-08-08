@@ -89,7 +89,7 @@ paso. (3 puntos)</li>
   </td><tr>
  </theader>
  <tbody>
-  <tr><td>- AVL (Addelson-Velskii y Landis) Este tipo de arbol nos permite tener una estructura eficiente con respecto a su padre el BST, y trata de mantenerlo balanceado(BST)
+  <tr><td>-El Árbol B surgió en 1972, con la idea de mantener índices en almacenamiento externo para acceso a bases de datos, se pretende aprovechar la gran capacidad de almacenamiento, pero organizada de forma que el acceso a una clave sea lo más rápido posible
   </td></tr>
  </tbody>
 </table>
