@@ -41,12 +41,11 @@
   <tr><td><strong>I. SOLUCIÓN DE EJERCICIOS/PROBLEMAS:</strong><br>
   <ul>
     <ol>
-        <li>Modificar el método de obtención de valor dado una clave (5 puntos)
-En el código, para la clave www.simpsons.com, invocado de la siguiente manera:</li>
-        <h1>1.- Funcionamiento del metodo Get</h1>
+        <li>Modificar el método de obtención de valor dado una clave (5 puntos)</li>
+        <h3>1.- Funcionamiento del metodo Get</h3>
         <img src="Pregunta1/get.PNG">
         <p>El metodo get recibe la clave y verifica si esta es nula para mandar un error, sino retorna el metodo search el cual devuelve un valor</p>
-        <h1>2.- Metodo Search (Original)</h1>
+        <h3>2.- Metodo Search (Original)</h3>
         <img src="Pregunta1/searchOriginal.png">
         <p>Crea un arreglo de Entry los cuales poseen como atributo clave, valor y un nodo siguiente: a continuacion la clase Entry:</p>
         <img src="Pregunta1/Entry.png">
@@ -60,11 +59,15 @@ En el código, para la clave www.simpsons.com, invocado de la siguiente manera:<
         <img src="Pregunta1/putDatos.png">
         <p>resultado</p>
         <img src="Pregunta1/result1.png">
-        <h1>3.- Metodo Search (Modificado)</h1>
+        <h3>3.- Metodo Search (Modificado)</h3>
         <img src="Pregunta1/modificacion.PNG">
         <p>El cambio fue realizado al entrar en el if donde la condicion es el metodo eq, el cual verifica si son iguales, ya no retorna ahi, sino que lo hace fuera del for, para que pueda buscar en todo el nodo de valores, y al momento de realizar la coincidencias lo acumule en un String, y el resultado seria el siguiente:</p>
         <img src="Pregunta1/result2.png">
-        <hz>
+        <h3>Resultados de todas las Pruebas</h3>
+        <p>Codigo Main:</p>
+        <img src="Pregunta1/codMain.png">
+        <p>Resultado:</p>
+        <img src="Pregunta1/result3.png">
         <li>Mostrar en un diagrama de árbol gráficamente la estructura final para los datos
 ingresados. (4 puntos)</li>
         <li>El método toString() del árbol, retorna lo siguiente. ¿Por qué están entre paréntesis
