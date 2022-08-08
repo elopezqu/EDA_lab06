@@ -71,6 +71,7 @@
         <li>Mostrar en un diagrama de árbol gráficamente la estructura final para los datos
 ingresados. (4 puntos)</li>
         Estructuta final del arbol B
+        
         <img src="Pregunta 2/ArbolB.png">
        
         
