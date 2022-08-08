@@ -2,12 +2,10 @@
 public class Test {
 
 	public static void main(String[] args) {
-        BTree<Integer, String> st = new BTree<Integer, String>();
-        /*
+        BTree<String, String> st = new BTree<String, String>();
+        
         st.put("www.cs.princeton.edu", "128.112.136.12");
         st.put("www.cs.princeton.edu", "128.112.136.11");
-        st.put("www.cs.princeton.edu", "128.112.136.13");
-        st.put("www.cs.princeton.edu", "128.112.136.14");
         st.put("www.princeton.edu",    "128.112.128.15");
         st.put("www.yale.edu",         "130.132.143.21");
         st.put("www.simpsons.com",     "209.052.165.60");
@@ -23,34 +21,20 @@ public class Test {
         st.put("www.espn.com",         "199.181.135.201");
         st.put("www.weather.com",      "63.111.66.11");
         st.put("www.yahoo.com",        "216.109.118.65");
-        */
-        st.put(5, "");
-        System.out.println(st);
-        st.put(8, "");
-        System.out.println(st);
-        st.put(7, "");
-        System.out.println(st);
-        st.put(3, "");
-        System.out.println(st);
-        st.put(2, "");
-        System.out.println(st);
-        st.put(1, "");
-        System.out.println(st);
+        
 
         System.out.println("A continuacion se obtiene el valor a partir de una llave proporcionada.");
-        //System.out.println("cs.princeton.edu:  " + st.get("www.cs.princeton.edu"));
-        //System.out.println("hardvarother.com: " + st.get("www.harvarother.com"));
-        //System.out.println("simpsons.com:      " + st.get("www.simpsons.com"));
-        //System.out.println("apple.com:         " + st.get("www.apple.com"));
-        ////System.out.println("ebay.com:          " + st.get("www.ebay.com"));
-    //System.out.println("dell.com:          " + st.get("www.dell.com"));
+        System.out.println("cs.princeton.edu:  " + st.get("www.cs.princeton.edu"));
+        System.out.println("hardvarother.com: " + st.get("www.harvarother.com"));
+        System.out.println("simpsons.com:      " + st.get("www.simpsons.com"));
+        System.out.println("apple.com:         " + st.get("www.apple.com"));
+        System.out.println("ebay.com:          " + st.get("www.ebay.com"));
+        System.out.println("dell.com:          " + st.get("www.dell.com"));
         System.out.println();
 
         System.out.println("size:    " + st.size());
         System.out.println("height:  " + st.height());
         System.out.println(st);
-        String a="a";
-        System.out.println(a.compareTo("z"));
         
     }
 }
