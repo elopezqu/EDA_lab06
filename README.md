@@ -79,10 +79,12 @@ paso. (3 puntos)</li>
   </ul>
 
   <tr><td><strong>III. CONCLUSIONES:</strong>
-  <br>- Para crear un arbol B tiene que estar balanceado<br>
-  - Los arboles B poseen un orden, el cual delimita el numero de elementos los nodos(n-1) y el número maximo de hijos que puede tener un nodo(n) <br>
-  - Los arboles b son estructuras de datos que facilitan muchas operaciones comunes en una base de datos, como puede ser: la insercion, la busqueda y la eliminación<br>
-  - En cada nodo del arbol se guarda informacion de la altura<br></td></tr>
+  <br>-Emplear estructuras de datos economizan tiempo y memoria, por ello es importante su implementación.<br>
+      <br>- Los arboles B son estructuras que mantienen un <em>balance perfecto</em> y crecen de abajo hacia arriba.
+  <br>- Para crear un arbol B tiene que estar balanceado.<br>
+  - Los arboles B poseen un orden, el cual delimita el numero de elementos por nodos(n-1) y el número maximo de hijos que puede tener un nodo(n). <br>
+  - Cuando se excede el numero de elemento que puede tener un nodo, se realiza una reestructuracion del arbol, el cual mantiene el arbol siempre en coherencias con sus propiedades. <br>
+  - Los arboles b son estructuras de datos que facilitan muchas operaciones comunes en una base de datos, como puede ser: la insercion, la busqueda y la eliminación.<br></td></tr>
  </tbody>
 </table>
 <hr>
