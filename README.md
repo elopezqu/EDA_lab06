@@ -73,6 +73,7 @@ ingresados. (4 puntos)</li>
         <p>Estructuta final del arbol B</p>
          <img src="Pregunta 2/ArbolB.png">
          <p>Pasos de manera grafica</p>
+         <img src="Pregunta 2/claves.png">
          <p>Paso 1 : insetar (www.cs.princeton.edu)</p>
          <img src="Pregunta 2/1.png">
         <p>Paso 2 : insetar (www.cs.princeton.edu)</p>
