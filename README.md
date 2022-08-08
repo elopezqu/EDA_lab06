@@ -77,9 +77,10 @@ ingresados. (4 puntos)</li>
 paso. (3 puntos)</li>
   </ul>
 
-  <tr><td><strong>III. CONCLUSIONES:</strong><br>- Un AVL es un arbol binario de busqueda que satisface la condicion de estar balanceado<br>
-  - La propiedad del balanceo dice que para cada nodo la diferencia de alturas entre el subarbol izquierdo y derecho es a lo sumo 1<br>
-  - Esta propiedad garantiza que la altura del arbol sea de O(log n)<br>
+  <tr><td><strong>III. CONCLUSIONES:</strong>
+  <br>- Para crear un arbol B tiene que estar balanceado<br>
+  - Los arboles B poseen un orden, el cual delimita el numero de elementos los nodos(n-1) y el número maximo de hijos que puede tener un nodo(n) <br>
+  - Los arboles b son estructuras de datos que facilitan muchas operaciones comunes en una base de datos, como puede ser: la insercion, la busqueda y la eliminación<br>
   - En cada nodo del arbol se guarda informacion de la altura<br></td></tr>
  </tbody>
 </table>
