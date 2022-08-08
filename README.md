@@ -70,8 +70,46 @@
         <img src="Pregunta1/result3.png">
         <li>Mostrar en un diagrama de árbol gráficamente la estructura final para los datos
 ingresados. (4 puntos)</li>
+        <p>Estructuta final del arbol B</p>
+         <img src="Pregunta 2/ArbolB.png">
+         <p>Pasos de manera grafica</p>
+         <img src="Pregunta 2/claves.png">
+         <p>Paso 1 : insetar (www.cs.princeton.edu)</p>
+         <img src="Pregunta 2/1.png">
+        <p>Paso 2 : insetar (www.cs.princeton.edu)</p>
+         <img src="Pregunta 2/2.png">
+        <p>Paso 3 : insetar (www.princeton.edu)</p>
+         <img src="Pregunta 2/3.png">
+        <p>Paso 4 : insetar (www.yale.edu)</p>
+         <img src="Pregunta 2/4.png">
+        <p>Paso 5 : insetar (www.simpsons.com)</p>
+         <img src="Pregunta 2/5.png">
+        <p>Paso 6 : insetar (www.apple.com)</p>
+         <img src="Pregunta 2/6.png">
+        <p>Paso 7 : insetar (www.amazon.com)</p>
+         <img src="Pregunta 2/7.png">
+        <p>Paso 8 : insetar (www.ebay.com)</p>
+         <img src="Pregunta 2/8.png">
+        <p>Paso 9 : insetar (www.cnn.com)</p>
+         <img src="Pregunta 2/9.png">
+        <p>Paso 10 : insetar (www,google.com)</p>
+         <img src="Pregunta 2/10.png">
+        <p>Paso 11 : insetar (www.nytimes.com)</p>
+         <img src="Pregunta 2/11.png">
+        <p>Paso 12 : insetar (www.microsoft.com)</p>
+         <img src="Pregunta 2/12.png">
+        <p>Paso 13 : insetar (www.dell.com)</p>
+         <img src="Pregunta 2/13.png">
+        <p>Paso 14 : insetar (www.slashdot.org)</p>
+         <img src="Pregunta 2/14.png">
+        <p>Paso 15 : insetar (www.espn.com)</p>
+         <img src="Pregunta 2/15.png">
+        <p>Paso 16 : insetar (www.weatcher.com)</p>
+         <img src="Pregunta 2/16.png">
+        <p>Paso final : insetar (www.yahoo.com)</p>
+         <img src="Pregunta 2/ArbolB.png">
         <li>El método toString() del árbol, retorna lo siguiente. ¿Por qué están entre paréntesis ciertas claves?.<br><h3><strong>Para esta pregunta se obto por usar números envés de String</strong></h3><img src="Pregunta3/codigo.png"><br>
-        Se puede observar que al imprimir el Árbol se logran diferenciar claves entre parérentesis, dichas claves representan los nodos padres, y justamente la indentación simboliza la altura que comparten los nodos
+                Se puede observar que al imprimir el Árbol se logran diferenciar claves entre parérentesis, dichas claves representan los nodos padres, y justamente la indentación simboliza la altura que comparten los nodos
         </li><img src="Pregunta3/impresion.png"><br>
         Vista del Árbol:<img src="Pregunta3/arbol.png"><br>
         Para la eliminación del 20 por ejemplo <img src="Pregunta3/eliminar.png"><br>
