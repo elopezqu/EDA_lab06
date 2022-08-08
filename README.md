@@ -72,9 +72,7 @@
 ingresados. (4 puntos)</li>
         Estructuta final del arbol B
         <img src="Pregunta 2/ArbolB.png">
-        
-        Pasos para formar eldiagrama final:
-        -Paso 1 : insertar (www.cs.princeton.edu)
+       
         
         <li>El método toString() del árbol, retorna lo siguiente. ¿Por qué están entre paréntesis ciertas claves?.<br><h3><strong>Para esta pregunta se obto por usar números envés de String</strong></h3><img src="Pregunta3/codigo.png"><br>
         Se puede observar que al imprimir el Árbol se logran diferenciar claves entre parérentesis, dichas claves representan los nodos padres, y justamente la indentación simboliza la altura que comparten los nodos
