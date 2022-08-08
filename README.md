@@ -47,7 +47,6 @@
         <img src="Pregunta1/modificacion.PNG">
         <li>Mostrar en un diagrama de árbol gráficamente la estructura final para los datos ingresados. (4 puntos)</li>
 	    -Se simula las operaciones de un AVL <br>
-	            <img src="Pregunta 2/ArbolB.PNG">
 
         <li>El método toString() del árbol, retorna lo siguiente. ¿Por qué están entre paréntesis ciertas claves? (4 puntos)</li>
 	    -Los AVL se parecen mucho a los BST , pero destacan porque presentan un factor de equilibrio, la cual no debe superar en 2 niveles la raiz izquierda a la derecha y viceversa garantizando mejores tiempos de ejecución.<br>Para el ejecicio se crearon tres clases:<br>
