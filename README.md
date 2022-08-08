@@ -117,6 +117,9 @@ ingresados. (4 puntos)</li>
         quedando al final: <img src="Pregunta3/eliminar2.png"><br>
         <li>Agregar un nodo adicional (www.youtube.com, 134.24.13.78) y mostrarlo paso a
 paso. (3 puntos)</li>
+<img src="Pregunta4/1.jpeg">
+<img src="Pregunta4/2.jpeg">
+<img src="Pregunta4/3.jpeg">
   </ul>
 
   <tr><td><strong>III. CONCLUSIONES:</strong>
