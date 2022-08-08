@@ -70,7 +70,7 @@
         <img src="Pregunta1/result3.png">
         <li>Mostrar en un diagrama de árbol gráficamente la estructura final para los datos
 ingresados. (4 puntos)</li>
-        Estructuta final del arbol B
+        <p>Estructuta final del arbol B</p>
         
         <img src="Pregunta 2/ArbolB.png">
        
