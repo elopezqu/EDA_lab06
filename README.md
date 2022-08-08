@@ -41,10 +41,33 @@
   <tr><td><strong>I. SOLUCIÓN DE EJERCICIOS/PROBLEMAS:</strong><br>
   <ul>
     <ol>
-        <li>Modificar el método de obtención de valor dado una clave (5 puntos) </li>
-	    -El programa se encarga de equilibrarlos corchetes <br>Se considera que dos corchetes son un par coincidente si un corchete de apertura (es decir, (, [, o ) aparece a la izquierda de un corchete de cierre (es decir, ), ] o ) del mismo tipo exacto. Hay tres tipos de pares de corchetes coincidentes: [], {} y () <br> 
+        <li>Modificar el método de obtención de valor dado una clave (5 puntos)</li>
+        <h3>1.- Funcionamiento del metodo Get</h3>
         <img src="Pregunta1/get.PNG">
+        <p>El metodo get recibe la clave y verifica si esta es nula para mandar un error, sino retorna el metodo search el cual devuelve un valor</p>
+        <h3>2.- Metodo Search (Original)</h3>
+        <img src="Pregunta1/searchOriginal.png">
+        <p>Crea un arreglo de Entry los cuales poseen como atributo clave, valor y un nodo siguiente: a continuacion la clase Entry:</p>
+        <img src="Pregunta1/Entry.png">
+        <p>luego con una condicion la cual exige que la altura sea 0, de lo contrario, verificara el numero de hijos del nodo en un for y dentro de este verificara un if el cual vera si las claves son diferentes, la que le mandamos como parametro y la key del hijo siguiente "children[j+1].key" (si son diferentes = true, si son iguales = false) con el metodo less, a continuacion el metodo less y el eq(este es todo lo contrario al less)</p>
+        <img src="Pregunta1/comparadores.png">
+        <p>Al entrar al if, empieza una recursividad la cual implica disminuir la altura, enviarle el nodo del hijo(children[j].next) y la key a buscar</p>
+        <img src="Pregunta1/else.png">
+        <p>Cuando la altura llegue a ser 0 va a entrar en el if y va a buscar en los hijos para ver cual de ellos coincide con la clave y al encontrarlo, va a retornar dicho valor, pero solo 1, a pesar de que haya otra key que coincida</p>
+        <img src="Pregunta1/if.png">
+        <p>Y nos retornara 1 solo valor de los 2 que ingresamos:</p>
+        <img src="Pregunta1/putDatos.png">
+        <p>resultado</p>
+        <img src="Pregunta1/result1.png">
+        <h3>3.- Metodo Search (Modificado)</h3>
         <img src="Pregunta1/modificacion.PNG">
+        <p>El cambio fue realizado al entrar en el if donde la condicion es el metodo eq, el cual verifica si son iguales, ya no retorna ahi, sino que lo hace fuera del for, para que pueda buscar en todo el nodo de valores, y al momento de realizar la coincidencias lo acumule en un String, y el resultado seria el siguiente:</p>
+        <img src="Pregunta1/result2.png">
+        <h3>4.- Resultados de todas las Pruebas</h3>
+        <p>Codigo Main:</p>
+        <img src="Pregunta1/codMain.png">
+        <p>Resultado:</p>
+        <img src="Pregunta1/result3.png">
         <li>Mostrar en un diagrama de árbol gráficamente la estructura final para los datos ingresados. (4 puntos)</li>
 	    -Se simula las operaciones de un AVL <br>
 
