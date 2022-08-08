@@ -73,7 +73,10 @@ ingresados. (4 puntos)</li>
         <li>El método toString() del árbol, retorna lo siguiente. ¿Por qué están entre paréntesis ciertas claves?.<br><h3><strong>Para esta pregunta se obto por usar números envés de String</strong></h3><img src="Pregunta3/codigo.png"><br>
         Se puede observar que al imprimir el Árbol se logran diferenciar claves entre parérentesis, dichas claves representan los nodos padres, y justamente la indentación simboliza la altura que comparten los nodos
         </li><img src="Pregunta3/impresion.png"><br>
-        Vista del Árbol:<img src="Pregunta3/arbol.png">
+        Vista del Árbol:<img src="Pregunta3/arbol.png"><br>
+        Para la eliminación del 20 por ejemplo <img src="Pregunta3/eliminar.png"><br>
+        Sus nodos hijos se juntan y pasan a ser hijos de la union del nodo hermano con el anterios es decir el 13
+        quedando al final: <img src="Pregunta3/eliminar2.png"><br>
         <li>Agregar un nodo adicional (www.youtube.com, 134.24.13.78) y mostrarlo paso a
 paso. (3 puntos)</li>
   </ul>
