@@ -79,7 +79,7 @@ paso. (3 puntos)</li>
   </ul>
 
   <tr><td><strong>III. CONCLUSIONES:</strong>
-  <br>-Emplear estructuras de datos economizan tiempo y memoria, por ello es importante su implementación.<br>
+  <br>- Emplear estructuras de datos(como el arbol B) economizan tiempo y memoria, por ello es importante su implementación.
       <br>- Los arboles B son estructuras que mantienen un <em>balance perfecto</em> y crecen de abajo hacia arriba.
   <br>- Para crear un arbol B tiene que estar balanceado.<br>
   - Los arboles B poseen un orden, el cual delimita el numero de elementos por nodos(n-1) y el número maximo de hijos que puede tener un nodo(n). <br>
